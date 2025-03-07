@@ -9,4 +9,4 @@ https://drive.google.com/drive/u/2/folders/1vRdKwHiTVAggYXNGObR7-AWmcGd_yA5T
 
 From this link anyone can access data which are named as nem=3,nem=4,nem=5,nem=6,nem=8,nem=9 used for training.
 
-
+For running the existing unmixing algorithms like Hysime,HFC-VD,GAP-VD use the function explained where you can change the input & output according to your availability of dataset
